@@ -1,28 +1,32 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://mdedotnet.github.io
+baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: MDE.NET
+email: mdedotnet@gmail.com
+description: "MDE.NET es una comunidad para todos los desarrolladores y entusiastas del desarrollo que usan o desean aprender .Net y tecnologías Microsoft en general. Te invitamos a participar de nuestras reuniones, charlas, conferencias y talleres en los que podrás aprender y compartir sobre nuevas tecnologías."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Geovanny Alzate S.
   pic: 1
-  position: Lead Designer
+  position: Guitarrista aficionado, mochilero profesional
   social:
-    - title: twitter
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/geovannyalzatesandoval
     - title: facebook
-      url: #
+      url: https://www.facebook.com/giovany.a.sandoval
     - title: stack-overflow
-      url: #
+      url: https://stackoverflow.com/users/8121383/geovanny-alzate-sandoval
+    - title: github
+      url: https://github.com/vany0114/
+    - title: rss
+      url: http://elvanydev.com/
 
-- name: Larry Parker
+- name: Felipe Correa
   pic: 2
-  position: Lead Marketer
+  position: Organizador
   social:
     - title: twitter
       url: #
@@ -31,29 +35,50 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Miguel Teheran
+  pic: 4
+  position: Aventurero y Amante de la tecnología
   social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/miguel-angel-teheran-garcia-1a034525/
+    - title: github
+      url: https://github.com/mteheran
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/Mteheran
+    - title: rss
+      url: https://mteheran.wordpress.com
     - title: google-plus
-      url: #
+      url: https://plus.google.com/u/1/+MiguelTeheran
+
+- name: Kevin Sejin
+  pic: 3
+  position: Travel Lover, hincha de Atlético Nacional y FC Barcelona
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/kevinricar24
+    - title: github
+      url: https://github.com/kevinricar24
+    - title: twitter
+      url: https://twitter.com/kevinricar24
+    - title: facebook
+      url: https://www.facebook.com/kevinricar24
+    - title: rss
+      url: https://kevinricar24.wordpress.com/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/mdedotnet
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/mdedotnet/
+  - title: instagram
+    url: https://www.instagram.com/mdedotnet/
+  - title: meetup
+    url: https://www.meetup.com/preview/MDE-NET
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/mdedotnet
+  - title: slideshare
+    url: https://slides.com/medellindotnet
 
 # Postal address (add as many lines as necessary)
 address:

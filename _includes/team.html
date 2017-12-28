@@ -3,17 +3,20 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading">Nuestro equipo organizador</h2>
+                    <h3 class="section-subheading text-muted">Lo hacemos con el &lt;3</h3>
                 </div>
             </div>
             <div class="row">
                 {% for member in site.people %}
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
+                        {% if member.position.size < 40 %}
+                        <br/>
+                        {% endif %}
                         <ul class="list-inline social-buttons">
                             {% for network in member.social %}
                             <li>
@@ -22,7 +25,6 @@
                                 </a>
                             </li>
                             {% endfor %}
-
                         </ul>
                     </div>
                 </div>
@@ -30,7 +32,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                    <p class="large text-muted">Al igual que tu, somos un grupo de gomosos y apasionados por la tecnología y el desarrollo de software que coincidieron en algún momento del tiempo para crear y apoyar esta comunidad.</p>
                 </div>
             </div>
         </div>
