@@ -1,11 +1,11 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 2019
+subtitle: 
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 3
+date: 2017-10-01
 img: dreams.png
-thumbnail: dreams-thumbnail.png
+thumbnail: 2019-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

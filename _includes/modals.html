@@ -10,25 +10,63 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
+                    <div class="col-lg-12">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                    </strong>
-                                </li>
+                            <ul class="timeline">
+                                {% assign count = 1 %}
+                                {% for meetup in post.talks %}
+                                    {% assign className = '' %}
+                                    {% assign mod = count | modulo: 2 %}
+                                    
+                                    {% if mod == 0  %}
+                                        {% assign className = 'timeline-inverted' %}
+                                    {% endif %}
+                                    <li class={{className}}>
+                                        <div class="timeline-image">
+                                            <h4 style="margin-top: 45%;">{{meetup.date}}</h4>
+                                        </div>
+
+                                        <div class="timeline-panel">
+                                            <div class="timeline-heading">
+                                                <h4>{{meetup.title}}</h4>
+                                            </div>
+                                            Por:<br>
+                                            {% for talk in meetup.talk %}
+                                                <div class="timeline-body">
+                                                    <h6>{{talk.speaker}}</h6>
+
+                                                    <div style="font-size: 25px;">
+                                                        {% if talk.github %}
+                                                            <a href="{{talk.github}}"><i class="fa fa-github"></i></a>
+                                                        {% endif %}
+
+                                                        {% if talk.slides %}
+                                                            <a href="{{talk.slides}}"><i class="fa fa-slideshare"></i></a>
+                                                        {% endif %}
+
+                                                        {% if talk.rss %}
+                                                            <a href="{{talk.rss}}"><i class="fa fa-rss"></i></a>
+                                                        {% endif %}
+                                                        
+                                                        {% if talk.youtube %}
+                                                            <a href="{{talk.youtube}}"><i class="fa fa-youtube"></i></a>
+                                                        {% endif %}
+
+                                                        {% if talk.twitter %}
+                                                            <a href="{{talk.twitter}}"><i class="fa fa-twitter"></i></a>
+                                                        {% endif %}
+
+                                                        {% if talk.facebook %}
+                                                            <a href="{{talk.facebook}}"><i class="fa fa-facebook"></i></a>
+                                                        {% endif %}
+                                                </div>
+                                            {% endfor %}
+                                        </div>
+                                    </li>
+                                    {% assign count = count | plus: 1 %}
+                                {% endfor %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>

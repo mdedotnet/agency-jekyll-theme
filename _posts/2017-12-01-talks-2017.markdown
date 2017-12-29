@@ -1,0 +1,67 @@
+---
+title: 2017
+subtitle: 
+layout: default
+modal-id: 1
+date: 2017-12-01
+img: dreams.png
+thumbnail: 2017-thumbnail.png
+alt: image-alt
+talks:
+- meetup: 
+  date: Mayo
+  title: Introducción a SignalR Core y ChatBots
+  talk:
+    - title: Introducción a SignalR Core y SqlDependency
+      description: Estado del arte SignalR Core, posibles fechas preview y release version, qué no va más en SignalR Core?, nuevas características en SignalR Core, signalR Core y sus bases en Asp.Net Core WebSockets, SqlDependency & SqlTableDependency API, ,diferencias, ventajas y desventajas, cuándo no usar SqlDependency.
+      speaker: Geovanny Alzate Sandoval
+      github: https://github.com/vany0114/SignalR-Core-SqlTableDependency
+      slides: http://slides.com/medellindotnet/signalrcore#/
+      rss: http://elvanydev.com/SignalR-Core-SqlDependency-part1/
+      youtube: https://www.youtube.com/watch?v=DuR9hq6e2O4&t=13s
+    - title: ChatBots con .NET
+      description: Que es un bot?, cual es su objetivo?, qué hacen?, en dónde están?, quién los construye?, se dónde viene la idea?, por qué se escucha tanto a cerca de ellos?, cómo funcionan?
+      speaker: Camilo jaramillo
+      youtube: https://www.youtube.com/watch?v=A801TwLUQvk
+- meetup: 
+  date: Agosto
+  title: Introducción a Generics y Cognitive Services
+  talk:
+    - title: Cognitive Services, Experiencias en Negocios Reales
+      description: Face Api, voice recognition, content Moderator
+      speaker: Diego Felipe Hoyos
+    - title: Introducción a Generics, una aproximación a través de MongoDB
+      description: Introducción a los atributos, cómo combinar generics y atributos para resolver un problema de acceso a datos
+      speaker: Yarlen Vásquez
+- meetup: 
+  date: Septiembre
+  title: Logging en la nube y Buenas prácticas "Repository Pattern" & Dapper
+  talk:
+    - title: Logging en la nube
+      speaker: Hernan Guzman 
+      twitter: https://twitter.com/hernandgr
+    - title: Repository Pattern & Dapper
+      speaker: Camilo Velasco Rueda
+      facebook: https://www.facebook.com/ing.velasco
+- meetup: 
+  date: Octubre
+  title: Collections and Generics y Reactive Programming con RxJS
+  talk:
+    - title: Collections and Generics
+      speaker: Marco Hernandez
+    - title: Reactive Programming con RxJS
+      speaker: Roger Gomez 
+      facebook: https://www.facebook.com/rogergomez780
+- meetup: 
+  date: Noviembre
+  title: Nuevas características de C# 7.X y Tips para C# con Visual Studio
+  talk:
+    - title: Nuevas características de C# 7.X
+      speaker: Miguel Teheran 
+      twitter: https://twitter.com/Mteheran
+      slides: http://slides.com/medellindotnet/featurescsharp7x#/
+    - title: Tips de C# con Visual Studio
+      speaker: Camilo Jaramillo 
+      twitter: https://twitter.com/milocko
+      slides: http://slides.com/medellindotnet/consejor-y-trucos-para-visual-studio#/
+---
