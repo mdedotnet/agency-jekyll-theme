@@ -60,7 +60,7 @@ talks:
   talk:
     - title: Nuevas características de C# 7.X
       speaker: Miguel Teheran 
-      github: https://github.com/vany0114/SignalR-Core-SqlTableDependency
+      github: https://github.com/Mteheran/CSharpVersionsDemos
       twitter: https://twitter.com/Mteheran
       slides: http://slides.com/medellindotnet/featurescsharp7x#/
       rss: https://mteheran.wordpress.com/2017/12/01/features-c-7-0-7-1-7-2/
