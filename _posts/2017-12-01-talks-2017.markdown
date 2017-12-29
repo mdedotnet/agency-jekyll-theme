@@ -54,6 +54,7 @@ talks:
     - title: Reactive Programming con RxJS
       speaker: Roger Gomez 
       facebook: https://www.facebook.com/rogergomez780
+      slides: http://slides.com/medellindotnet/reactive-programming#/
 - meetup: 
   date: Noviembre
   title: Nuevas características de C# 7.X y Tips para C# con Visual Studio
@@ -67,5 +68,5 @@ talks:
     - title: Tips de C# con Visual Studio
       speaker: Camilo Jaramillo 
       twitter: https://twitter.com/milocko
-      slides: http://slides.com/medellindotnet/consejor-y-trucos-para-visual-studio#/
+      slides: http://slides.com/medellindotnet/consejos-y-trucos-para-visual-studio#/
 ---
