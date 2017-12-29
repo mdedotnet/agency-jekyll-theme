@@ -26,14 +26,14 @@ people:
 
 - name: Felipe Correa
   pic: 2
-  position: Organizador
+  position: Artesano de software, manoseador de guitarras y gamer.
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/fcu423
+    - title: stack-overflow
+      url: https://stackoverflow.com/users/1388362/felipe-correa
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/felipecorreau/
 
 - name: Miguel Teheran
   pic: 4
