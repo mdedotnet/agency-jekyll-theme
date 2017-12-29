@@ -49,6 +49,8 @@ talks:
   talk:
     - title: Collections and Generics
       speaker: Marco Hernandez
+      github: https://github.com/marcohern/CollectionsAndGenerics
+      slides: https://www.slideshare.net/MiguelAngelTeheranGa/collections-and-generics-85292547
     - title: Reactive Programming con RxJS
       speaker: Roger Gomez 
       facebook: https://www.facebook.com/rogergomez780
@@ -58,8 +60,10 @@ talks:
   talk:
     - title: Nuevas características de C# 7.X
       speaker: Miguel Teheran 
+      github: https://github.com/vany0114/SignalR-Core-SqlTableDependency
       twitter: https://twitter.com/Mteheran
       slides: http://slides.com/medellindotnet/featurescsharp7x#/
+      rss: https://mteheran.wordpress.com/2017/12/01/features-c-7-0-7-1-7-2/
     - title: Tips de C# con Visual Studio
       speaker: Camilo Jaramillo 
       twitter: https://twitter.com/milocko
