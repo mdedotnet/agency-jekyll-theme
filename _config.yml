@@ -79,6 +79,8 @@ social:
     url: http://github.com/mdedotnet
   - title: slideshare
     url: https://slides.com/medellindotnet
+  - title: youtube
+    url: https://www.youtube.com/channel/UCgnt7WceyEgeEGArdkC9HHw  
 
 # Postal address (add as many lines as necessary)
 address:
