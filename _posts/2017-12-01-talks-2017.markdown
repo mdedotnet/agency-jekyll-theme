@@ -40,9 +40,13 @@ talks:
     - title: Logging en la nube
       speaker: Hernan Guzman 
       twitter: https://twitter.com/hernandgr
+      github: https://github.com/hernandgr/LoggingFrameworks
+      slides: http://slides.com/medellindotnet/logging
     - title: Repository Pattern & Dapper
       speaker: Camilo Velasco Rueda
       facebook: https://www.facebook.com/ing.velasco
+      github: https://github.com/boterito3/Dapper_RepositoryPattern_DI
+      slides: http://slides.com/medellindotnet/dapper
 - meetup: 
   date: Octubre
   title: Collections and Generics y Reactive Programming con RxJS
