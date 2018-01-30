@@ -19,6 +19,5 @@ talks:
       slides: http://slides.com/medellindotnet/middlewarecore
     - title: Azure Api Management
       description: El servicio API MANAGMENT de Azure ofrece una alternativa muy útil para la gestión y administración de una API, funciona como un proxy que evita que se tenga que crear toda la infraestructura y el código que controla la autenticación, autorización, csantidad de request por usuario, cuotas, ancho de banda y reglas particulares a ciertos usuarios, en lugar de eso el desarrollador solo se debe preocupar por crear el CRUD y hospedarlo en algún lugar del mundo, este servicio de Azure se encarga del resto.
-      speaker: Camilo Velasco Rueda      
-
+      speaker: Camilo Velasco Rueda
 ---
