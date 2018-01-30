@@ -3,13 +3,22 @@ title: 2018
 subtitle: 
 layout: default
 modal-id: 2
-date: 2017-11-01
+date: 2018-24-01
 img: dreams.png
 thumbnail: 2018-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+talks:
+- meetup: 
+  date: enero
+  title: Middleware para .Net Core y Azure Api Management
+  talk:
+    - title: Middleware para .Net Core y Azure Api Management
+      description: Una guía rápida de cómo migrar los HttpHandlers y los HttpModules al middleware de .NET Core
+      speaker: Eliana Caraballo
+      github: https://github.com/elianaca/MiddlewareExample
+      slides: http://slides.com/medellindotnet/middlewarecore
+    - title: Azure Api Management
+      description: El servicio API MANAGMENT de Azure ofrece una alternativa muy útil para la gestión y administración de una API, funciona como un proxy que evita que se tenga que crear toda la infraestructura y el código que controla la autenticación, autorización, csantidad de request por usuario, cuotas, ancho de banda y reglas particulares a ciertos usuarios, en lugar de eso el desarrollador solo se debe preocupar por crear el CRUD y hospedarlo en algún lugar del mundo, este servicio de Azure se encarga del resto.
+      speaker: Camilo Velasco Rueda      
 
 ---
