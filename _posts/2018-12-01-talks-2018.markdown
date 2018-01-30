@@ -3,7 +3,7 @@ title: 2018
 subtitle: 
 layout: default
 modal-id: 2
-date: 2018-24-01
+date: 2018-01-24
 img: dreams.png
 thumbnail: 2018-thumbnail.png
 alt: image-alt
