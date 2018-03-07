@@ -9,7 +9,7 @@ thumbnail: 2018-thumbnail.png
 alt: image-alt
 talks:
 - meetup: 
-  date: enero
+  date: Enero
   title: Middleware para .Net Core y Azure Api Management
   talk:
     - title: Middleware para .Net Core y Azure Api Management
@@ -21,4 +21,15 @@ talks:
       description: El servicio API MANAGMENT de Azure ofrece una alternativa muy útil para la gestión y administración de una API, funciona como un proxy que evita que se tenga que crear toda la infraestructura y el código que controla la autenticación, autorización, csantidad de request por usuario, cuotas, ancho de banda y reglas particulares a ciertos usuarios, en lugar de eso el desarrollador solo se debe preocupar por crear el CRUD y hospedarlo en algún lugar del mundo, este servicio de Azure se encarga del resto.
       speaker: Camilo Velasco Rueda
       slides: http://slides.com/medellindotnet/azure-api-management
+- meetup: 
+  date: Febrero
+  title: Introducción a Aurelia JS y Blockchain “the power of decentralization”
+  talk:
+    - title: Introducción a Aurelia JS
+      description: El tema es Aurelia JS será una pequeña introducción de un framework que lleva muy poco tiempo pero ha cogido mucha fuerza por las facilidades que brinda en el desarrollo. Explicaré por qué las personas que no lo conocen lo tienen como opción al momento de hacer aplicaciones sean web o móviles. Para terminar daré indicaciones de cómo deben empezar a trabajar con este framework usando Visual studio 2017.
+      speaker: Cristian Aristizabal
+    - title: Blockchain “the power of decentralization”
+      description: En el 2014, JPMorgan, una de las empresas financieras más grande de Estados Unidos, puso en riesgo datos sensible de más de 76 millones de hogares. En el mismo año el servicio iCloud de Apple sufrió un ataque en el que fotografías altamente sensibles fueron extraídas y utilizadas para chantajear a varias celebridades. En el 2016, el banco de Bangladesh sufrió un ataque cibernético en el que se robaron 81 millones de dólares.
+      speaker: Rubén Murillo Higuita
+      slides: http://slides.com/medellindotnet/blockchain-ethereum
 ---
