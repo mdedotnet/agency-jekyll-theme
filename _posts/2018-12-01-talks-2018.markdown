@@ -32,4 +32,51 @@ talks:
       description: En el 2014, JPMorgan, una de las empresas financieras más grande de Estados Unidos, puso en riesgo datos sensible de más de 76 millones de hogares. En el mismo año el servicio iCloud de Apple sufrió un ataque en el que fotografías altamente sensibles fueron extraídas y utilizadas para chantajear a varias celebridades. En el 2016, el banco de Bangladesh sufrió un ataque cibernético en el que se robaron 81 millones de dólares.
       speaker: Rubén Murillo Higuita
       slides: http://slides.com/medellindotnet/blockchain-ethereum
+- meetup: 
+  date: Marzo
+  title: GraphQL en .NET Core y Cloud architecture patterns and practices
+  talk:
+    - title: GraphQL en .NET Core
+      description: GraphQL se ha convertido poco a poco en la tecnología de mayor expansión para la comunicación con servicios de información, y para muchas personas es la evolución de REST.
+      speaker: Gabriel Trujillo
+      twitter: https://twitter.com/TheDull
+    - title: Cloud architecture patterns and practices
+      description: Si estás considerando iniciar con el diseño de una arquitectura en la nube, bien sea para soportar un nuevo sistema o migrar uno existente, existen importantes aspectos que debes tener en cuenta a la hora de hacerlo. En este espacio hablaremos sobre estilos de arquitectura, patrones, consideraciones de diseño y buenas prácticas pensadas para la nube, entre las cuales podremos compartir experiencias al respecto enfocadas principalmente en Microsoft Azure.
+      speaker: Gustavo Alzate Sandoval
+      twitter: https://twitter.com/EltavoDev
+- meetup: 
+  date: Abril
+  title: Webhooks con Dynamics 365 y Azure Functions e Introducción Blazor C# en Browser
+  talk:
+    - title: Implementando Webhooks con Dynamics 365 y Azure Functions 
+      description: En esta sesión revisaremos el concepto de webhooks y su aplicación en desarrollo de software. Luego hablaremos un poco de la plataforma Dynamics 365 y su modelo de extensibilidad, para finalmente usar una de las nuevas características que nos permitirá responder a eventos lanzados desde la plataforma usando Webhooks con Azure functions
+      speaker: Roger Gomez
+      twitter: https://twitter.com/rgomezj
+    - title:  Introduction to Blazor C# in the Browser
+      description: Blazor is a .NET web framework that runs in any browser. You author Blazor apps using C#/Razor and HTML. Blazor uses only the latest web standards. No plugins or transpilation needed. It runs in the browser on a real .NET runtime (Mono) implemented in WebAssembly that executes normal .NET assemblies. It works in older browsers too by falling back to an asm.js based .NET runtime.
+      speaker: Scott Cate 
+      twitter: https://twitter.com/ScottCate
+- meetup: 
+  date: Mayo
+  title: Firebase desde Xamarin - Visual studio live share - Prism con Xamarin
+  talk:
+    - title: Firebase Database Real-time desde Xamarin
+      description: Aprende cómo usar el modo real-time de la base de datos de Firebase desde Xamarin Android y Xamarin iOS, en una aplicación Xamarin Forms.
+      speaker: Sorey Garcia  
+      twitter: https://twitter.com/soreygarcia
+    - title:  Visual Studio Live Share e Intellicode
+      description: Con un demo en vivo, veremos las bondades, herramientas y utilidades que ofrece Visual Studio Live Share e Intellicode que salieron al público en una versión preview en el Microsoft Build.
+      speaker: Miguel Teheran y Camilo Jaramillo
+- meetup: 
+  date: Junio
+  title: Mi primer bot multi-lenguaje! - App Center, Xamarin y DevOps
+  talk:
+    - title: Mi primer bot multi-lenguaje!
+      description: Aprenderás a crear tu primer bot multi-lenguaje usando todos los servicios que nos brinda Azure para construir aplicaciones inteligentes que logren brindar una excelente experiencia a nuestros usuarios.
+      speaker: Juan David Nicholls 
+      twitter: https://twitter.com/jdnichollsc
+    - title:  App Center, Xamarin y DevOps
+      description: Las organizaciones necesitan innovar y llegar al mercado más rápido, por eso, en esta charla conocerás como el App Center nos ayuda a configurar todo lo necesario para desarrollar, implementar y monitorear nuestra aplicación de forma rápida y en pocos pasos.
+      speaker: Andres Felipe Londoño 
+      twitter: https://twitter.com/andreslon
 ---
