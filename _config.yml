@@ -35,21 +35,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/felipecorreau/
 
-- name: Miguel Teheran
-  pic: 5
-  position: Aventurero y Amante de la tecnología
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/miguel-angel-teheran-garcia-1a034525/
-    - title: github
-      url: https://github.com/mteheran
-    - title: twitter
-      url: https://twitter.com/Mteheran
-    - title: rss
-      url: https://mteheran.wordpress.com
-    - title: google-plus
-      url: https://plus.google.com/u/1/+MiguelTeheran
-
 - name: Kevin Sejin
   pic: 3
   position: Travel Lover, hincha de Atlético Nacional y FC Barcelona
