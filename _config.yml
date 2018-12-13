@@ -50,6 +50,21 @@ people:
     - title: rss
       url: https://kevinricar24.wordpress.com/
 
+- name: Roger Gómez
+  pic: 4
+  position: Simpsons' fan. Consumidor de deportes y conciertos de Rock.
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/roger-gomez-jaramillo-45236b19/
+    - title: github
+      url: https://github.com/rgomezj
+    - title: twitter
+      url: https://twitter.com/rgomezj
+    - title: facebook
+      url: https://www.facebook.com/rogergomez780
+    - title: rss
+      url: https://rogergomez.azurewebsites.net/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter

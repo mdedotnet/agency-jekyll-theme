@@ -87,4 +87,48 @@ talks:
       description: Las organizaciones necesitan innovar y llegar al mercado más rápido, por eso, en esta charla conocerás como el App Center nos ayuda a configurar todo lo necesario para desarrollar, implementar y monitorear nuestra aplicación de forma rápida y en pocos pasos.
       speaker: Andres Felipe Londoño 
       twitter: https://twitter.com/andreslon
+- meetup: 
+  date: Agosto
+  title: EF Advanced with EF Plus - Microservices and Docker with .NETCore and Azure SF
+  talk:
+    - title: Microservices and Docker with .Net Core and Azure Service Fabric
+      description: Hablaremos un poco de los conceptos básicos de una arquitectura basada en Microservicios y cómo podemos implementarla usando .Net Core, Docker y Azure Service Fabric, entre otras tecnologías que nos ofrece Microsoft Azure. Además plantearemos un ejemplo práctico para ver nuestra arquitectura en acción!
+      speaker: Geovanny Alzate Sandoval
+      slides: https://www.slideshare.net/giovanyasandoval/microservices-docker-ddd-cqrs
+      github: https://github.com/vany0114/microservices-dotnetcore-docker-servicefabric
+      rss: http://elvanydev.com/Microservices-part1/
+    - title:  Entity Framework Advanced with EF Plus
+      description: EnitityFramework para avanzados usando la librería EF Plus. Resolveremos problemas comunes cuando empezamos a usar EF a fondo sin tener que escribir extensas líneas de codigo.
+      speaker: Carlos Bermudez
+- meetup: 
+  date: Septiembre
+  title: Authentication with IdentityServer4, OpenID, OAuth - UT, TDD and BDD in .NET
+  talk:
+    - title: Authentication as a Service in ASP.NET Core 2.1 with IdentityServer4, OpenID Connect, and OAuth 2.0
+      description: Tienes muchas aplicaciones que utilizan diferentes mecanismos de autenticación? es complicado la mantenibilidad por duplicidad en el código relacionado con autenticación y autorización?. En esta charla discutiremos la importancia de tener un provedor de identidad centralizado en el desarrollo de aplicaciones modernas y como frameworks como IdentityServer4 nos ayudan a implementarlo siguiendo los estandares OpenId connect y OAuth2
+      speaker: Juan Diego Foronda Valencia
+    - title: UNIT TESTING, TDD and BDD in .NET
+      description: En esta charla hablaremos sobre que tan importante es para los proyectos aplicar testing y como es la correcta forma de usarlo usando librerias, frameworks y drivers como, Visual Studio Test Tool, Moq, NSubstitute, FakeItEasy, NUnit and Selenium.
+      speaker: Kevin Ricardo Sejin
+- meetup: 
+  date: Octubre
+  title: Construyendo websites Microsoft Serverless Computing - Azure Notification Hub
+  talk:
+    - title: Construyendo websites con Microsoft Serverless Computing
+      description: En esta sesión expondremos las diferencias y ventajas de Microsoft Serverless Computing vs PaaS. Luego veremos como crear sitios web usando Azure Storage para los components de Front End y Azure functions para las APIs que accede nuestro sitio web
+      speaker: Roger Gomez
+    - title: Azure Notification Hub
+      description: Azure Notification Hub. ¿Como funcionan las notificaciones?, ¿Como me registro para recibir notificaciones?, ¿Como puedo enviar notificaciones a muchos dispositivos?, ¿Como puedo enviar notificaciones a un usuario especifico?, ¿Como enviar notificaciones sin tener una gran infraestructura? Demo-Android with Firebase.
+      speaker: Fabio Tangarife
+- meetup: 
+  date: Noviembre
+  title: Reactive en C# - Aplicaciones en tiempo real React.js + Azure SignalR services
+  talk:
+    - title: Reactive en C#
+      description: Que tal si cambiamos nuestra manera de escribir código y vemos todo como un suceso de eventos al que tenemos que reaccionar? Veremos un escenario (no frontend) en donde podamos aplicar programación reactiva y algunos de sus operadores. Compararemos esto con las otras técnicas de programación asíncrona en C# para sacar conclusiones
+      speaker: Juan Pablo Giraldo Giraldo
+      twitter: https://twitter.com/qjuanp
+    - title: Aplicaciones en tiempo real con React.js + Azure SignalR services 
+      description: Azure signalr services es un nuevo servicio de Azure que provee la posibilidad de incorporar real-time a nuestras aplicaciones de manera fácil y escalable. Vamos hacer un análisis de las arquitecturas y el funcionamiento de este servicio asi como codear algunos ejemplos usando como front-end React.js.
+      speaker: Miguel Teheran - Camilo Jaramillo
 ---
