@@ -107,9 +107,13 @@ talks:
     - title: Authentication as a Service in ASP.NET Core 2.1 with IdentityServer4, OpenID Connect, and OAuth 2.0
       description: Tienes muchas aplicaciones que utilizan diferentes mecanismos de autenticación? es complicado la mantenibilidad por duplicidad en el código relacionado con autenticación y autorización?. En esta charla discutiremos la importancia de tener un provedor de identidad centralizado en el desarrollo de aplicaciones modernas y como frameworks como IdentityServer4 nos ayudan a implementarlo siguiendo los estandares OpenId connect y OAuth2
       speaker: Juan Diego Foronda Valencia
+      slides: https://slides.com/mdedotnet/authentication-service-aspnet-core-with-identityserver4-openid-connect-and-oauth
     - title: UNIT TESTING, TDD and BDD in .NET
       description: En esta charla hablaremos sobre que tan importante es para los proyectos aplicar testing y como es la correcta forma de usarlo usando librerias, frameworks y drivers como, Visual Studio Test Tool, Moq, NSubstitute, FakeItEasy, NUnit and Selenium.
       speaker: Kevin Ricardo Sejin
+      rss: https://kevinricar24.github.io
+      github: https://github.com/kevinricar24/MDE.NET-Testing
+      slides: https://slides.com/mdedotnet/unittesting-tdd-bdd
 - meetup: 
   date: Octubre
   title: Construyendo websites Microsoft Serverless Computing - Azure Notification Hub
@@ -128,6 +132,7 @@ talks:
       description: Que tal si cambiamos nuestra manera de escribir código y vemos todo como un suceso de eventos al que tenemos que reaccionar? Veremos un escenario (no frontend) en donde podamos aplicar programación reactiva y algunos de sus operadores. Compararemos esto con las otras técnicas de programación asíncrona en C# para sacar conclusiones
       speaker: Juan Pablo Giraldo Giraldo
       twitter: https://twitter.com/qjuanp
+      slides: https://slides.com/mdedotnet/reactive_en_csharp
     - title: Aplicaciones en tiempo real con React.js + Azure SignalR services 
       description: Azure signalr services es un nuevo servicio de Azure que provee la posibilidad de incorporar real-time a nuestras aplicaciones de manera fácil y escalable. Vamos hacer un análisis de las arquitecturas y el funcionamiento de este servicio asi como codear algunos ejemplos usando como front-end React.js.
       speaker: Miguel Teheran - Camilo Jaramillo
