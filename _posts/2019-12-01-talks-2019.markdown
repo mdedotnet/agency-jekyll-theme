@@ -1,15 +1,58 @@
 ---
-title: 2019 próximamente...
+title: 2019
 subtitle: 
 layout: default
 modal-id: 3
-date: 2017-10-01
+date: 2019-02-28
 img: dreams.png
 thumbnail: 2019-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+talks:
+- meetup: 
+  date: Febrero
+  title: Asegura información sensible de tus apps con Azure Key Vault y Mocking Services With Docker
+  talk:
+    - title: Asegura información sensible de tus apps con Azure Key Vault 
+      description: La seguridad es un tema relevante que debemos tener en cuenta para el desarrollo de nuestras aplicaciones. Revelar información sensible puede tener muchas consecuencias indeseables. Aprendamos cómo podemos mitigar esto con Azure Key Vault.
+      speaker: Hernan Guzman
+      twitter: https://twitter.com/hernandgr
+    - title: Mocking Services With Docker
+      description: Running unit tests against mocked repository-style interfaces is the norm when you want to test how your code interacts with a third-party service because it's self-contained, fast and easy... but is it accurate? In this talk I am going to talk about how we may make our tests reflect the production environment more closely by using Docker to quickly and easily spin up third party services like SQL Server and Redis for our unit tests effectively.
+      speaker: Germán Valencia
+      twitter: https://twitter.com/XMachinarius
+- meetup: 
+  date: Mayo
+  title: Programación Funcional en React Js y Introduction to VS 2019 and C# 8.0
+  talk:
+    - title: Programación Funcional en React Js 
+      description: Aprenderás qué características y mecanismos nos brinda C# para aplicar programación funcional principalmente en sus últimas versiones. También entenderás cómo React Js ha sido basado en programación funcional desde su creación y cómo los React Hooks (una de las últimas actualizaciones de React Js) se aprovechan de esto también.
+      speaker: Hugo Rodríguez
+      twitter: https://twitter.com/harf2310
+    - title: Introduction to VS 2019 and C# 8.0
+      description: In this talk, we will examine the "preview" version that Microsoft launched on April 2nd regarding one of the best IDEs to develop applications Visual Studio 2019. At the same time, we will explore the new features of the latest C# language version (8.0).
+      speaker: Camilo Jaramillo
+      twitter: https://twitter.com/milocko
+- meetup: 
+  date: Mayo
+  title: Azure Search - How to Search like a Pro y Improve your code with Railway Oriented Programming
+  talk:
+    - title: Azure Search - How to Search like a Pro
+      description: This talk is aimed at beginner software engineers who want to understand how platforms like Amazon and Etsy can deliver near-instant search capabilities on huge product datasets. Using Azure Search attendees will learn what a Reverse Index is and how it fits in a cloud-first architecture to fulfill all search capabilities for a variety of user-generated queries, far beyond the power of a SQL 'LIKE' query. Attendees will develop an application with Asp.Net Core against a prepared dataset that will be able to invoke Azure Search services to supply compelling search results to users by leveraging concepts such as Fuzzy Search, Term Boosting and Ranged Queries transparently, with minimal knowledge of the techniques involved. In short, attendees will learn to craft world-class search experiences for their applications.
+      speaker: Germán Valencia
+      twitter: https://twitter.com/XMachinarius
+    - title: Improve your code with Railway Oriented Programming
+      description: Como Railway Oriented Programming puede mejorar la manera en que escribes código.
+      speaker: Fabio Tangarife
+- meetup: 
+  date: Junio
+  title: Blazor, WebAssembly and the new era of client side apps with C# y 
+  talk:
+    - title: Blazor, WebAssembly and the new era of client side apps with C#
+      description: En esta oportunidad aprenderás a usar el nuevo UI framework de .Net llamado Blazor. Aprenderemos a crear aplicaciones web usando C# del lado del cliente, algo nunca antes visto !!
+      speaker: Hugo Rodríguez
+      twitter: https://twitter.com/harf2310
+    - title: Desplegando una aplicación .Net Core con Docker en Azure Kubernetes Service
+      description: Crea aplicaciones innovadoras con.Net Core que sean persistentes, escalables y tolerantes a fallos usando Azure Kubernetes Service.
+      speaker: Andrés Londoño
+      twitter: https://twitter.com/andreslon
 ---
