@@ -111,7 +111,7 @@ talks:
     - title: UNIT TESTING, TDD and BDD in .NET
       description: En esta charla hablaremos sobre que tan importante es para los proyectos aplicar testing y como es la correcta forma de usarlo usando librerias, frameworks y drivers como, Visual Studio Test Tool, Moq, NSubstitute, FakeItEasy, NUnit and Selenium.
       speaker: Kevin Ricardo Sejin
-      rss: https://kevinricar24.github.io
+      globe: https://kevinricar24.github.io
       github: https://github.com/kevinricar24/MDE.NET-Testing
       slides: https://slides.com/mdedotnet/unittesting-tdd-bdd
 - meetup: 
