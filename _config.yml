@@ -37,18 +37,10 @@ people:
 
 - name: Kevin Sejin
   pic: 3
-  position: Travel Lover, hincha de Atlético Nacional y FC Barcelona
+  position: Software Developer, Traveler and Football Soccer Lover.
   social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/kevinricar24
-    - title: github
-      url: https://github.com/kevinricar24
-    - title: twitter
-      url: https://twitter.com/kevinricar24
-    - title: facebook
-      url: https://www.facebook.com/kevinricar24
-    - title: rss
-      url: https://kevinricar24.wordpress.com/
+    - title: globe
+      url: https://kevinricar24.github.io
 
 - name: Roger Gómez
   pic: 4
